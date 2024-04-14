@@ -1,5 +1,5 @@
 const BLOG = {
-  title: "Sunrise AI Blog",
+  title: "Sunrise AI Blog EN",
   author: "Aleks Sav",
   email: "i@craigary.net",
   link: "https://nobelium.vercel.app",
