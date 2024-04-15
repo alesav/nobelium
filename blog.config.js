@@ -1,9 +1,9 @@
 const BLOG = {
-  title: "Sunrise AI На русском",
+  title: "Sunrise AI на русском",
   author: "Aleks Sav",
   email: "i@craigary.net",
   link: "https://sunai.ee/ru",
-  description: "Блог про искусственный интеллект",
+  description: "блог про искусственный интеллект",
   lang: "ru", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: "auto", // ['light', 'dark', 'auto'],
