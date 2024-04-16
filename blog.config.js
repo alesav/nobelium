@@ -1,11 +1,11 @@
 const BLOG = {
-  title: "Sunrise AI на русском",
+  title: "Sunrise AI українською",
   author: "Aleks Sav",
   email: "i@craigary.net",
   link: "https://sunai.ee/ru",
-  description: "блог про искусственный интеллект",
-  lang: "ru", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
+  description: "блог про штучний інтелект",
+  lang: "uk", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  timezone: "Europe/Tallinn", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: "auto", // ['light', 'dark', 'auto'],
   font: "sans-serif", // ['sans-serif', 'serif']
   lightBackground: "#ffffff", // use hex value, don't forget '#' e.g #fffefc
